@@ -1,0 +1,237 @@
+# depslib dependency file v1.0
+1460933213 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\main.cpp
+	"game.h"
+
+1460930794 d:\c++ stuff\puri-puri rothf\puri_puri rothf\include\game.h
+	"PE_Exit.h"
+
+1459645788 d:\c++ stuff\puri-puri rothf\puri_puri rothf\include\pe_exit.h
+	"PE_Music.h"
+
+1459645788 d:\c++ stuff\puri-puri rothf\puri_puri rothf\include\pe_music.h
+	"PE_Texture.h"
+
+1460928387 d:\c++ stuff\puri-puri rothf\puri_puri rothf\include\pe_texture.h
+	"PE_Timer.h"
+
+1459646012 d:\c++ stuff\puri-puri rothf\puri_puri rothf\include\pe_timer.h
+	"PE_Renderer.h"
+
+1459645788 d:\c++ stuff\puri-puri rothf\puri_puri rothf\include\pe_renderer.h
+	"PE_Window.h"
+
+1459645788 d:\c++ stuff\puri-puri rothf\puri_puri rothf\include\pe_window.h
+	"PE_Include.h"
+
+1458303076 d:\c++ stuff\puri-puri rothf\puri_puri rothf\include\pe_include.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string.h>
+	<sstream>
+	<time.h>
+	<vector>
+
+1460933176 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\src\game.cpp
+	"game.h"
+
+1452479218 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\src\pe_exit.cpp
+	"PE_Exit.h"
+
+1447383622 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\src\pe_include.cpp
+	"PE_Include.h"
+
+1451518510 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\src\pe_music.cpp
+	"PE_Music.h"
+
+1447384722 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\src\pe_renderer.cpp
+	"PE_Renderer.h"
+
+1460928535 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\src\pe_texture.cpp
+	"PE_Texture.h"
+
+1458303720 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\src\pe_timer.cpp
+	"PE_Timer.h"
+
+1448195856 source:d:\c++ stuff\puri-puri rothf\puri_puri rothf\src\pe_window.cpp
+	"PE_Window.h"
+
+1460933214 source:e:\puri-puri rothf\puri_puri rothf\main.cpp
+	"game.h"
+
+1460930796 e:\puri-puri rothf\puri_puri rothf\include\game.h
+	"PE_Exit.h"
+
+1459645790 e:\puri-puri rothf\puri_puri rothf\include\pe_exit.h
+	"PE_Music.h"
+
+1459645790 e:\puri-puri rothf\puri_puri rothf\include\pe_music.h
+	"PE_Texture.h"
+
+1460928388 e:\puri-puri rothf\puri_puri rothf\include\pe_texture.h
+	"PE_Timer.h"
+
+1459646014 e:\puri-puri rothf\puri_puri rothf\include\pe_timer.h
+	"PE_Renderer.h"
+
+1459645790 e:\puri-puri rothf\puri_puri rothf\include\pe_renderer.h
+	"PE_Window.h"
+
+1459645790 e:\puri-puri rothf\puri_puri rothf\include\pe_window.h
+	"PE_Include.h"
+
+1458303076 e:\puri-puri rothf\puri_puri rothf\include\pe_include.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string.h>
+	<sstream>
+	<time.h>
+	<vector>
+
+1461312218 source:e:\puri-puri rothf\puri_puri rothf\src\game.cpp
+	"game.h"
+
+1452479218 source:e:\puri-puri rothf\puri_puri rothf\src\pe_exit.cpp
+	"PE_Exit.h"
+
+1447383622 source:e:\puri-puri rothf\puri_puri rothf\src\pe_include.cpp
+	"PE_Include.h"
+
+1451518510 source:e:\puri-puri rothf\puri_puri rothf\src\pe_music.cpp
+	"PE_Music.h"
+
+1447384722 source:e:\puri-puri rothf\puri_puri rothf\src\pe_renderer.cpp
+	"PE_Renderer.h"
+
+1460928536 source:e:\puri-puri rothf\puri_puri rothf\src\pe_texture.cpp
+	"PE_Texture.h"
+
+1458303720 source:e:\puri-puri rothf\puri_puri rothf\src\pe_timer.cpp
+	"PE_Timer.h"
+
+1448195856 source:e:\puri-puri rothf\puri_puri rothf\src\pe_window.cpp
+	"PE_Window.h"
+
+1460936814 source:i:\puri-puri rothf\puri_puri rothf\main.cpp
+	"game.h"
+
+1460934396 i:\puri-puri rothf\puri_puri rothf\include\game.h
+	"PE_Exit.h"
+
+1459649390 i:\puri-puri rothf\puri_puri rothf\include\pe_exit.h
+	"PE_Music.h"
+
+1459649390 i:\puri-puri rothf\puri_puri rothf\include\pe_music.h
+	"PE_Texture.h"
+
+1460931988 i:\puri-puri rothf\puri_puri rothf\include\pe_texture.h
+	"PE_Timer.h"
+
+1459649614 i:\puri-puri rothf\puri_puri rothf\include\pe_timer.h
+	"PE_Renderer.h"
+
+1459649390 i:\puri-puri rothf\puri_puri rothf\include\pe_renderer.h
+	"PE_Window.h"
+
+1459649390 i:\puri-puri rothf\puri_puri rothf\include\pe_window.h
+	"PE_Include.h"
+
+1458303076 i:\puri-puri rothf\puri_puri rothf\include\pe_include.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string.h>
+	<sstream>
+	<time.h>
+	<vector>
+
+1452479218 source:i:\puri-puri rothf\puri_puri rothf\src\pe_exit.cpp
+	"PE_Exit.h"
+
+1447383622 source:i:\puri-puri rothf\puri_puri rothf\src\pe_include.cpp
+	"PE_Include.h"
+
+1451518510 source:i:\puri-puri rothf\puri_puri rothf\src\pe_music.cpp
+	"PE_Music.h"
+
+1447384722 source:i:\puri-puri rothf\puri_puri rothf\src\pe_renderer.cpp
+	"PE_Renderer.h"
+
+1460932136 source:i:\puri-puri rothf\puri_puri rothf\src\pe_texture.cpp
+	"PE_Texture.h"
+
+1458303720 source:i:\puri-puri rothf\puri_puri rothf\src\pe_timer.cpp
+	"PE_Timer.h"
+
+1448195856 source:i:\puri-puri rothf\puri_puri rothf\src\pe_window.cpp
+	"PE_Window.h"
+
+1461412572 source:i:\puri-puri rothf\puri_puri rothf\src\game.cpp
+	"game.h"
+
+1461530226 source:j:\puri-puri rothf\puri_puri rothf\src\game.cpp
+	"game.h"
+
+1461528988 j:\puri-puri rothf\puri_puri rothf\include\game.h
+	"PE_Exit.h"
+
+1459645790 j:\puri-puri rothf\puri_puri rothf\include\pe_exit.h
+	"PE_Music.h"
+
+1459645790 j:\puri-puri rothf\puri_puri rothf\include\pe_music.h
+	"PE_Texture.h"
+
+1460928388 j:\puri-puri rothf\puri_puri rothf\include\pe_texture.h
+	"PE_Timer.h"
+
+1459646014 j:\puri-puri rothf\puri_puri rothf\include\pe_timer.h
+	"PE_Renderer.h"
+
+1459645790 j:\puri-puri rothf\puri_puri rothf\include\pe_renderer.h
+	"PE_Window.h"
+
+1459645790 j:\puri-puri rothf\puri_puri rothf\include\pe_window.h
+	"PE_Include.h"
+
+1458303076 j:\puri-puri rothf\puri_puri rothf\include\pe_include.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string.h>
+	<sstream>
+	<time.h>
+	<vector>
+
+1452479218 source:j:\puri-puri rothf\puri_puri rothf\src\pe_exit.cpp
+	"PE_Exit.h"
+
+1447383622 source:j:\puri-puri rothf\puri_puri rothf\src\pe_include.cpp
+	"PE_Include.h"
+
+1451518510 source:j:\puri-puri rothf\puri_puri rothf\src\pe_music.cpp
+	"PE_Music.h"
+
+1447384722 source:j:\puri-puri rothf\puri_puri rothf\src\pe_renderer.cpp
+	"PE_Renderer.h"
+
+1460928536 source:j:\puri-puri rothf\puri_puri rothf\src\pe_texture.cpp
+	"PE_Texture.h"
+
+1458303720 source:j:\puri-puri rothf\puri_puri rothf\src\pe_timer.cpp
+	"PE_Timer.h"
+
+1448195856 source:j:\puri-puri rothf\puri_puri rothf\src\pe_window.cpp
+	"PE_Window.h"
+
+1461533838 source:j:\puri-puri rothf\puri_puri rothf\main.cpp
+	"game.h"
+

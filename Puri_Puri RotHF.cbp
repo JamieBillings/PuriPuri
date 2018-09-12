@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Puri_Puri RotHF" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Pigeon Engine\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Puri_Puri RotHF" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Puri_Puri RotHF" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/PE_Exit.h">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="include/PE_Include.h">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="include/PE_Music.h">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="include/PE_Renderer.h">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="include/PE_Texture.h">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="include/PE_Timer.h">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="include/PE_Window.h">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="include/game.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/PE_Exit.cpp">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="src/PE_Include.cpp">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="src/PE_Music.cpp">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="src/PE_Renderer.cpp">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="src/PE_Texture.cpp">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="src/PE_Timer.cpp">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="src/PE_Window.cpp">
+			<Option virtualFolder="Pigeon Engine/" />
+		</Unit>
+		<Unit filename="src/game.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
